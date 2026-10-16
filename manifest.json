@@ -1,6 +1,6 @@
 {
-  "name": "Buku Kas",
-  "short_name": "Buku Kas",
+  "name": "PiTi",
+  "short_name": "PiTi",
   "description": "Pencatat keuangan pribadi harian",
   "start_url": "/",
   "scope": "/",
