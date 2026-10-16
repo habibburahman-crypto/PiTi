@@ -1,26 +1,18 @@
 {
+  "id": "/PiTi/",
   "name": "PiTi",
   "short_name": "PiTi",
   "description": "Pencatat keuangan pribadi harian",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/PiTi/",
+  "scope": "/PiTi/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ECEFF2",
   "theme_color": "#2C4FA3",
   "lang": "id",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
